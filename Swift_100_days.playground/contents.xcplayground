@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
     <pages>
-        <page name='Untitled Page'/>
-        <page name='Day.4.1.ForLoops'/>
+        <page name='Day1'/>
+        <page name='Day2'/>
+        <page name='Day3'/>
+        <page name='day4.1ForLoops'/>
         <page name='Day.4.2.WhileLoops'/>
         <page name='Day4.3.RepeatLoops'/>
         <page name='Day.4.4.ExitingLoops'/>
@@ -26,8 +28,8 @@
         <page name='Day.6.5.TrailingCloSintx'/>
         <page name='Day.6.6.CloWithPara'/>
         <page name='Day.6.7.CloWithRetValues'/>
-        <page name='z'/>
         <page name='Day.6.8.ShorthandParaNames'/>
         <page name='Day.6.9.ReturningClosures'/>
+        <page name='Day.6.10.CapturingValues'/>
     </pages>
 </playground>
