@@ -31,5 +31,11 @@
         <page name='Day.6.8.ShorthandParaNames'/>
         <page name='Day.6.9.ReturningClosures'/>
         <page name='Day.6.10.CapturingValues'/>
+        <page name='Day7.1ClosuresWithPara'/>
+        <page name='Day7.2ClosuresWithReturnValues'/>
+        <page name='Day7.3ShorthandParametersNames'/>
+        <page name='Day7.4ClosuresWithMultipleParameters'/>
+        <page name='Day7.5ReturnringClosures'/>
+        <page name='Day7.6 CapturingValues'/>
     </pages>
 </playground>

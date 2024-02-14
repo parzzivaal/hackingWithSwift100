@@ -1,7 +1,8 @@
+//Day 7.6 Capturing Values
+
 //Si utiliza valores externos dentro de su cierre, Swift los captura y los almacena junto con el cierre, para que puedan modificarse incluso si ya no existen.
 
 //En este momento tenemos una travel()función que devuelve un cierre, y el cierre devuelto acepta una cadena como único parámetro y no devuelve nada:
-
 func travel() -> (String) -> Void {
     return {
         print("I'm going to \($0)")
@@ -31,3 +32,4 @@ func travel2() -> (String) -> Void {
 result("London")
 result("London")
 result("London")
+
