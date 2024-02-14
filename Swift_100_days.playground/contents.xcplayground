@@ -37,5 +37,17 @@
         <page name='Day7.4ClosuresWithMultipleParameters'/>
         <page name='Day7.5ReturnringClosures'/>
         <page name='Day7.6 CapturingValues'/>
+        <page name='Day8 .1CreatingStructs'/>
+        <page name='Day8.2ComputedProperties        '/>
+        <page name='Day8.3ProepertyObservers'/>
+        <page name='Day8.4Methods'/>
+        <page name='Day8.5Mutatingmetods'/>
+        <page name='Day8.6PropertiesAndMethodsofStrings'/>
+        <page name='Day8.7propertiesAndMethodsOfArrays'/>
+        <page name='Day8.8Initializers'/>
+        <page name='Day8.9SELE'/>
+        <page name='Day8.10LazyProperties'/>
+        <page name='Day8.11StaticPropertiesAndMethods'/>
+        <page name='Day8.12AccesControl'/>
     </pages>
 </playground>
