@@ -61,6 +61,20 @@
         <page name='Day10.5CopyingObjects'/>
         <page name='Day10.6Denitializers'/>
         <page name='Day10.7Mutability'/>
-        <page name='Untitled Page 6'/>
+        <page name='Day11.1Protocols'/>
+        <page name='Day11.2ProtocolInheritance'/>
+        <page name='Day11.3Extensions'/>
+        <page name='Day11.4ProtocolExtensions'/>
+        <page name='Day11.5ProtocolOP'/>
+        <page name='Day12.1HandlingMissingData'/>
+        <page name='Day12.2UngrappingOptionals'/>
+        <page name='Day12.3UnwrappingWithGuard'/>
+        <page name='Day12.4ForgeUnwrapping'/>
+        <page name='Day12.5ImplityUngrapedOptionals'/>
+        <page name='Day12.6NilCoalescing'/>
+        <page name='Day12.7OptionalChaining'/>
+        <page name='Day12.8OptionalTry'/>
+        <page name='Day12.9Faiableinitializers'/>
+        <page name='Day12.10TypeCasting'/>
     </pages>
 </playground>
