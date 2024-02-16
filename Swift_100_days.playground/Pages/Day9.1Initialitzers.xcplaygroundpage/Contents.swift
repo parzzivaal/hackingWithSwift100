@@ -1,19 +1,18 @@
-//Day 8.7 Initialiters
+//Day 9.1 Inicializadores
+
 //Los inicializadores son métodos especiales que proporcionan diferentes formas de crear su estructura. Todas las estructuras vienen con uno de forma predeterminada, llamado inicializador por miembros ; esto le solicita que proporcione un valor para cada propiedad cuando crea la estructura.
 
 //Puedes ver esto si creamos una Userestructura que tiene una propiedad:
-
 struct User {
     var username: String
 }
 
 //Cuando creamos una de esas estructuras, debemos proporcionar un nombre de usuario:
-
 var user = User(username: "twostraws")
 
 //Podemos proporcionar nuestro propio inicializador para reemplazar el predeterminado. Por ejemplo, es posible que deseemos crear todos los usuarios nuevos como "Anónimos" e imprimir un mensaje como este:
 
-struct User2 {
+struct User {
     var username: String
 
     init() {
@@ -26,5 +25,7 @@ struct User2 {
 
 //Ahora nuestro inicializador no acepta parámetros, necesitamos crear la estructura como esta:
 
-var user = User2()
+
+var user = User()
 user.username = "twostraws"
+

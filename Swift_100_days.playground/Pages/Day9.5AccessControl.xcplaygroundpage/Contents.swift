@@ -1,5 +1,5 @@
-//Day8.12AccesControl
-//El control de acceso le permite restringir qué código puede usar propiedades y métodos. Esto es importante porque es posible que desee evitar que las personas lean una propiedad directamente, por ejemplo.
+// Day9.5 Access control
+// El control de acceso le permite restringir qué código puede usar propiedades y métodos. Esto es importante porque es posible que desee evitar que las personas lean una propiedad directamente, por ejemplo.
 
 //Podríamos crear una Personestructura que tenga una idpropiedad para almacenar su número de seguro social:
 
@@ -17,7 +17,7 @@ let ed = Person(id: "12345")
 
 //Simplemente use la privatepalabra clave, como esta:
 
-struct Person2 {
+struct Person {
     private var id: String
 
     init(id: String) {
@@ -27,7 +27,7 @@ struct Person2 {
 
 //Ahora sólo los métodos internos Personpueden leer la idpropiedad. Por ejemplo:
 
-struct Person3 {
+struct Person {
     private var id: String
 
     init(id: String) {

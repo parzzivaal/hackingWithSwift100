@@ -49,5 +49,18 @@
         <page name='Day8.10LazyProperties'/>
         <page name='Day8.11StaticPropertiesAndMethods'/>
         <page name='Day8.12AccesControl'/>
+        <page name='Day9.1Initialitzers'/>
+        <page name='Day9.2SELE'/>
+        <page name='Day9.3lazyProperties'/>
+        <page name='Day9.4StaticPropertiesAndMethods'/>
+        <page name='Day9.5AccessControl'/>
+        <page name='Day10.1CreatingClasses'/>
+        <page name='Day10.2ClassInheritance'/>
+        <page name='Day10.3OverridingMethods'/>
+        <page name='Day10.4FinalClasses'/>
+        <page name='Day10.5CopyingObjects'/>
+        <page name='Day10.6Denitializers'/>
+        <page name='Day10.7Mutability'/>
+        <page name='Untitled Page 6'/>
     </pages>
 </playground>
