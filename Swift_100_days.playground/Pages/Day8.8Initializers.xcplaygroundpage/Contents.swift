@@ -26,5 +26,5 @@ struct User2 {
 
 //Ahora nuestro inicializador no acepta parámetros, necesitamos crear la estructura como esta:
 
-var user = User2()
+var user2 = User2()
 user.username = "twostraws"
